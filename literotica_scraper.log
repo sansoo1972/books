@@ -172,3 +172,81 @@ Traceback (most recent call last):
 UnicodeEncodeError: 'latin-1' codec can't encode characters in position 1722-1723: ordinal not in range(256)
 2025-05-29 02:16:21,138 [INFO] EPUB saved successfully: /Users/perez1999/Documents/code/books/A Crappy Holiday Get Together/A Crappy Holiday Get Together.epub
 2025-05-29 02:16:21,138 [INFO] Scraping and saving completed successfully.
+2025-05-29 02:55:53,788 [INFO] Validated story URL: https://www.literotica.com/s/heathers-pleasure-day
+2025-05-29 02:55:56,476 [INFO] User selected output format option: 4
+2025-05-29 02:55:56,477 [INFO] Starting story scrape...
+2025-05-29 02:55:56,477 [INFO] Fetching URL: https://www.literotica.com/s/heathers-pleasure-day
+2025-05-29 02:55:56,764 [INFO] Story title extracted: Heather's Pleasure Day
+2025-05-29 02:55:56,764 [INFO] Processing page 1: https://www.literotica.com/s/heathers-pleasure-day
+2025-05-29 02:55:56,764 [INFO] Fetching URL: https://www.literotica.com/s/heathers-pleasure-day
+2025-05-29 02:55:57,346 [INFO] Extracted 109 paragraphs from story.
+2025-05-29 02:55:57,346 [INFO] Next page URL found: https://www.literotica.com/s/heathers-pleasure-day?page=2
+2025-05-29 02:55:58,351 [INFO] Processing page 2: https://www.literotica.com/s/heathers-pleasure-day?page=2
+2025-05-29 02:55:58,351 [INFO] Fetching URL: https://www.literotica.com/s/heathers-pleasure-day?page=2
+2025-05-29 02:55:58,632 [INFO] Extracted 109 paragraphs from story.
+2025-05-29 02:55:58,632 [INFO] Next page URL found: https://www.literotica.com/s/heathers-pleasure-day?page=3
+2025-05-29 02:55:59,637 [INFO] Processing page 3: https://www.literotica.com/s/heathers-pleasure-day?page=3
+2025-05-29 02:55:59,638 [INFO] Fetching URL: https://www.literotica.com/s/heathers-pleasure-day?page=3
+2025-05-29 02:55:59,926 [INFO] Extracted 82 paragraphs from story.
+2025-05-29 02:55:59,926 [INFO] Next page URL found: https://www.literotica.com/s/heathers-pleasure-day?page=4
+2025-05-29 02:56:00,930 [INFO] Processing page 4: https://www.literotica.com/s/heathers-pleasure-day?page=4
+2025-05-29 02:56:00,931 [INFO] Fetching URL: https://www.literotica.com/s/heathers-pleasure-day?page=4
+2025-05-29 02:56:01,215 [INFO] Extracted 53 paragraphs from story.
+2025-05-29 02:56:01,216 [INFO] No next page link found; reached last page.
+2025-05-29 02:56:25,465 [INFO] Created output directory: /Users/perez1999/Documents/code/books/Heathers Pleasure Day
+2025-05-29 02:56:25,467 [INFO] TXT saved successfully: /Users/perez1999/Documents/code/books/Heathers Pleasure Day/Heathers Pleasure Day.txt
+2025-05-29 02:56:25,492 [INFO] PDF saved successfully: /Users/perez1999/Documents/code/books/Heathers Pleasure Day/Heathers Pleasure Day.pdf
+2025-05-29 02:56:25,505 [INFO] EPUB saved successfully: /Users/perez1999/Documents/code/books/Heathers Pleasure Day/Heathers Pleasure Day.epub
+2025-05-29 02:56:25,505 [INFO] Scraping and saving completed successfully.
+2025-05-29 23:28:36,165 [INFO] Validated story URL: https://www.literotica.com/s/my-wife-the-substitute-stripper
+2025-05-29 23:28:38,869 [INFO] User selected output format option: 4
+2025-05-29 23:28:38,869 [INFO] Starting story scrape...
+2025-05-29 23:28:38,870 [INFO] Fetching URL: https://www.literotica.com/s/my-wife-the-substitute-stripper
+2025-05-29 23:28:39,171 [INFO] Story title extracted: My Wife - The Substitute Stripper
+2025-05-29 23:28:39,171 [INFO] Processing page 1: https://www.literotica.com/s/my-wife-the-substitute-stripper
+2025-05-29 23:28:39,171 [INFO] Fetching URL: https://www.literotica.com/s/my-wife-the-substitute-stripper
+2025-05-29 23:28:39,469 [INFO] Extracted 85 paragraphs from story.
+2025-05-29 23:28:39,469 [INFO] Next page URL found: https://www.literotica.com/s/my-wife-the-substitute-stripper?page=2
+2025-05-29 23:28:40,472 [INFO] Processing page 2: https://www.literotica.com/s/my-wife-the-substitute-stripper?page=2
+2025-05-29 23:28:40,472 [INFO] Fetching URL: https://www.literotica.com/s/my-wife-the-substitute-stripper?page=2
+2025-05-29 23:28:40,890 [INFO] Extracted 60 paragraphs from story.
+2025-05-29 23:28:40,890 [INFO] Next page URL found: https://www.literotica.com/s/my-wife-the-substitute-stripper?page=3
+2025-05-29 23:28:41,894 [INFO] Processing page 3: https://www.literotica.com/s/my-wife-the-substitute-stripper?page=3
+2025-05-29 23:28:41,895 [INFO] Fetching URL: https://www.literotica.com/s/my-wife-the-substitute-stripper?page=3
+2025-05-29 23:28:42,332 [INFO] Extracted 48 paragraphs from story.
+2025-05-29 23:28:42,332 [INFO] No next page link found; reached last page.
+2025-05-29 23:28:47,043 [INFO] Created output directory: /Users/perez1999/Documents/code/books/My Wife - The Substitute Stripper
+2025-05-29 23:28:47,045 [INFO] TXT saved successfully: /Users/perez1999/Documents/code/books/My Wife - The Substitute Stripper/My Wife - The Substitute Stripper.txt
+2025-05-29 23:28:47,059 [INFO] PDF saved successfully: /Users/perez1999/Documents/code/books/My Wife - The Substitute Stripper/My Wife - The Substitute Stripper.pdf
+2025-05-29 23:28:47,072 [INFO] EPUB saved successfully: /Users/perez1999/Documents/code/books/My Wife - The Substitute Stripper/My Wife - The Substitute Stripper.epub
+2025-05-29 23:28:47,072 [INFO] Scraping and saving completed successfully.
+2025-05-30 00:31:21,428 [INFO] Validated story URL: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife
+2025-05-30 00:31:23,602 [INFO] User selected output format option: 4
+2025-05-30 00:31:23,602 [INFO] Starting story scrape...
+2025-05-30 00:31:23,602 [INFO] Fetching URL: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife
+2025-05-30 00:31:23,906 [INFO] Story title extracted: Zoe Gradually Becomes a Hotwife
+2025-05-30 00:31:23,906 [INFO] Processing page 1: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife
+2025-05-30 00:31:23,906 [INFO] Fetching URL: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife
+2025-05-30 00:31:24,201 [INFO] Extracted 92 paragraphs from story.
+2025-05-30 00:31:24,201 [INFO] Next page URL found: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=2
+2025-05-30 00:31:25,206 [INFO] Processing page 2: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=2
+2025-05-30 00:31:25,206 [INFO] Fetching URL: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=2
+2025-05-30 00:31:25,663 [INFO] Extracted 126 paragraphs from story.
+2025-05-30 00:31:25,664 [INFO] Next page URL found: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=3
+2025-05-30 00:31:26,669 [INFO] Processing page 3: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=3
+2025-05-30 00:31:26,669 [INFO] Fetching URL: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=3
+2025-05-30 00:31:27,022 [INFO] Extracted 101 paragraphs from story.
+2025-05-30 00:31:27,022 [INFO] Next page URL found: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=4
+2025-05-30 00:31:28,027 [INFO] Processing page 4: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=4
+2025-05-30 00:31:28,027 [INFO] Fetching URL: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=4
+2025-05-30 00:31:28,319 [INFO] Extracted 91 paragraphs from story.
+2025-05-30 00:31:28,319 [INFO] Next page URL found: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=5
+2025-05-30 00:31:29,324 [INFO] Processing page 5: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=5
+2025-05-30 00:31:29,325 [INFO] Fetching URL: https://www.literotica.com/s/zoe-gradually-becomes-a-hotwife?page=5
+2025-05-30 00:31:29,668 [INFO] Extracted 9 paragraphs from story.
+2025-05-30 00:31:29,669 [INFO] No next page link found; reached last page.
+2025-05-30 00:31:32,421 [INFO] Created output directory: /Users/perez1999/Documents/code/books/Zoe Gradually Becomes a Hotwife
+2025-05-30 00:31:32,422 [INFO] TXT saved successfully: /Users/perez1999/Documents/code/books/Zoe Gradually Becomes a Hotwife/Zoe Gradually Becomes a Hotwife.txt
+2025-05-30 00:31:32,440 [INFO] PDF saved successfully: /Users/perez1999/Documents/code/books/Zoe Gradually Becomes a Hotwife/Zoe Gradually Becomes a Hotwife.pdf
+2025-05-30 00:31:32,457 [INFO] EPUB saved successfully: /Users/perez1999/Documents/code/books/Zoe Gradually Becomes a Hotwife/Zoe Gradually Becomes a Hotwife.epub
+2025-05-30 00:31:32,457 [INFO] Scraping and saving completed successfully.
